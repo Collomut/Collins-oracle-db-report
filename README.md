@@ -9,6 +9,7 @@ This document is an assignment on Pluggable Database administration in an Oracle
 
 # 2. Creation of a Pluggable Database
 The PDB created is named co_pdb_27842 which is to be managed by the Admin user collins_plsqlauca_27842 this task was successful as shown below:-
+<img width="454" height="71" alt="creating co_pdb_27842" src="https://github.com/user-attachments/assets/a9d9d4f6-fbec-476f-a985-4ca43d518709" />
 
 # 3. Creation and Deletion of a Pluggable Database 
 The PDB created for this was named co_to_delete_pdb_27842 which was managed by collins_plsqlauca_27842. The pluggable database was then dropped successfuly.
