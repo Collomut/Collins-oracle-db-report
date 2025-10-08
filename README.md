@@ -13,7 +13,7 @@ The PDB created is named co_pdb_27842 which is to be managed by the Admin user c
 # 3. Creation and Deletion of a Pluggable Database 
 The PDB created for this was named co_to_delete_pdb_27842 which was managed by collins_plsqlauca_27842. The pluggable database was then dropped successfuly.
 
-#4 ORACLE ENTERPRISE MANAGER 
+# 4. ORACLE ENTERPRISE MANAGER 
 The login to the OEM was succesful 
 
 
