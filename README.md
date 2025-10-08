@@ -2,7 +2,7 @@
 
 **Name:** Collins Mutinda
 
-**Student ID:**27842
+Student ID:27842
 
 ---------------------------------------------------------------------------
 # 1. Overview of Tasks
